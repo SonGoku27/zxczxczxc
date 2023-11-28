@@ -1,0 +1,1 @@
+C:\Users\HUAWEI\AppData\Roaming\Python\Python311\Scripts\pyuic5 .\Amirs1.ui -o mail_interface.py
